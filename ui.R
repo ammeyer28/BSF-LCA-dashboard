@@ -271,4 +271,5 @@ ui <- navbarPage(
       "CO\u2082-equivalent values were calculated using a gate-to-gate Life Cycle Assessment (LCA) framework covering organic waste collection, black soldier fly (BSF) bioconversion, and processing into larvae and frass. Emission factors were sourced from established databases and models (e.g., EPA WARM, GREET, and Ecoinvent) and applied to defined functional units based on observed production data. Averted emissions were estimated through system expansion by comparing BSF outputs to conventional landfill disposal, imported animal feed, and synthetic fertilizer production. Conventional CO\u2082 emission factors can be toggled between lower threshold (0.6, 1.1, 1.2 kg CO\u2082/kg for waste, feed, and fertilizer respectively), mean (0.9, 1.4, 2.15), and upper threshold (1.2, 1.7, 3.1) estimates from the source literature. Mean values are shown by default."
     )
   )
-)
+)git --version
+
